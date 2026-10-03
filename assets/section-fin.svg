@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-label="connection closed">
+<title>connection closed</title>
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".34" stop-color="#c9ccd1"/><stop offset=".5" stop-color="#80848b"/><stop offset=".52" stop-color="#26282c"/><stop offset=".56" stop-color="#8b8f96"/><stop offset=".82" stop-color="#e8eaed"/><stop offset="1" stop-color="#6c7078"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d10f1f"/><stop offset=".7" stop-color="#d10f1f" stop-opacity=".35"/><stop offset="1" stop-color="#d10f1f" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-300%" y="-50%" width="700%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect x="0" y="14" width="5" height="34" fill="#ff1a2b" filter="url(#g)"/>
+<rect x="0" y="14" width="5" height="34" fill="#ff1a2b"/>
+<text x="24" y="43" font-family="Orbitron,'Arial Black',Impact,'Segoe UI',sans-serif" font-weight="900" font-size="30" letter-spacing="3" fill="url(#chrome)" stroke="#0b0b0c" stroke-width=".8" paint-order="stroke">connection closed</text>
+<rect x="0" y="58" width="1200" height="2" fill="url(#ln)"/>
+<path d="M1000 59H1040L1048 53L1054 59H1062L1068 68L1076 40L1084 63L1090 59H1130" fill="none" stroke="#ff1a2b" stroke-width="1.5" stroke-linejoin="round" opacity=".8"/>
+</svg>
