@@ -1,10 +1,3 @@
-<!--
-  PERFIL DE GITHUB — red team / cyberpunk
-  1) Crea un repositorio PÚBLICO con el mismo nombre que tu usuario (TU_USUARIO/TU_USUARIO).
-  2) Sube este README.md y la carpeta assets/ tal cual.
-  3) Reemplaza TU_USUARIO, NOMBRE_REPO y los enlaces de contacto.
--->
-
 <div align="center">
 
 <img src="assets/header.svg" alt="Red Team Operator" width="100%">
@@ -13,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/rol-pentester-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Rol: pentester">
 <img src="https://img.shields.io/badge/rol-red%20team%20operator-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Rol: red team operator">
-<img src="https://img.shields.io/badge/CRTO-en%20preparaci%C3%B3n-9AA0A6?style=for-the-badge&labelColor=0b0b0c" alt="CRTO en preparación">
+<img src="https://img.shields.io/badge/CRTO-en%20preparaci%C3%B3n-9AA0A6?style=for-the-badge&labelColor=0b0b0c" alt="CRTO">
 <img src="https://img.shields.io/badge/foco-Active%20Directory-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Foco: Active Directory">
 
 </div>
