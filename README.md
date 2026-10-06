@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/rol-pentester-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Rol: pentester">
 <img src="https://img.shields.io/badge/rol-red%20team%20operator-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Rol: red team operator">
-<img src="https://img.shields.io/badge/CRTO-en%20preparaci%C3%B3n-9AA0A6?style=for-the-badge&labelColor=0b0b0c" alt="CRTO">
 <img src="https://img.shields.io/badge/foco-Active%20Directory-B3101E?style=for-the-badge&labelColor=0b0b0c" alt="Foco: Active Directory">
 
 </div>
