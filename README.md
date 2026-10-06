@@ -36,9 +36,9 @@
 **Reconocimiento, web y pivoting**<br>
 <img src="https://img.shields.io/badge/-Nmap-B3101E?style=for-the-badge" alt="Nmap">
 <img src="https://img.shields.io/badge/-Burp%20Suite-B3101E?style=for-the-badge" alt="Burp Suite">
-<img src="https://img.shields.io/badge/-Nuclei-B3101E?style=for-the-badge" alt="Nuclei">
+<img src="https://img.shields.io/badge/-Proxychains-B3101E?style=for-the-badge" alt="Proxychains">
 <img src="https://img.shields.io/badge/-Chisel-B3101E?style=for-the-badge" alt="Chisel">
-<img src="https://img.shields.io/badge/-Ligolo--ng-B3101E?style=for-the-badge" alt="Ligolo-ng">
+<img src="https://img.shields.io/badge/-Proxifier-B3101E?style=for-the-badge" alt="Proxifier">
 <img src="https://img.shields.io/badge/-Evil--WinRM-B3101E?style=for-the-badge" alt="Evil-WinRM">
 
 <br>
