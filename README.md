@@ -97,8 +97,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Sh1kata-Ga-Nai&background=0b0b0c&ring=ff1a2b&fire=ff1a2b&currStreakLabel=c4c8ce&sideLabels=c4c8ce&currStreakNum=ffffff&sideNums=ffffff&dates=7b8088&stroke=5a0a12&border=5a0a12" alt="Racha de contribuciones">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh1kata-Ga-Nai&bg_color=0b0b0c&color=ff1a2b&line=d10f1f&point=ffffff&area=true&area_color=ff1a2b&hide_border=true&title_color=ff1a2b" alt="Gráfico de actividad" width="100%">
-
 </div>
 
 <br>
