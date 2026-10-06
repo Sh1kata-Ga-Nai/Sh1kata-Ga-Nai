@@ -77,6 +77,7 @@
 [~] Notas de estudio AD . publicándose en GitHub
 ```
 
+```
 <div align="center">
 
 <a href="https://github.com/Sh1kata-Ga-Nai/Sh1kata-Ga-Nai">
@@ -84,6 +85,7 @@
 </a>
 
 </div>
+```
 
 <br>
 
