@@ -61,11 +61,10 @@
 | Reconocimiento | OSINT en entornos AD, enumeración de OWA |
 | Acceso inicial | Phishing, password spraying, credenciales expuestas |
 | Evasión de defensas | Bypass de AMSI y CLM, técnicas y herramientas OPSEC safe |
-| Persistencia | Scheduled Task, COM Hijacking, WMI Event Suscriptions, Authentication Package /SSP |
-| Escalada de privilegios | Abuso de DACL, Shadow Credentials, noPac |
-| Acceso a credenciales | Kerberoasting (incluido el dirigido), NTLM relay |
-| Movimiento lateral | Pass-the-Ticket, WinRM, pivoting |
-| Lado azul | Consultas KQL y mitigaciones para cada técnica |
+| Persistencia | Scheduled task, COM hijacking, WMI event suscriptions, Authentication package /SSP |
+| Escalada de privilegios | Abuso de DACL, Shadow credentials, Abuso de ADCS |
+| Acceso a credenciales | DCSync, DPAPI, PKINIT, Kerberos delegation abuse |
+| Movimiento lateral | Pass-the-Ticket, Overpass the hash, SID history injection |
 
 <br>
 
