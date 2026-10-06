@@ -72,10 +72,10 @@
 <img src="assets/section-foco.svg" alt="foco_actual" width="100%">
 
 ```text
-[~] Preparación para el CRTO ...... publicándose en Github  (Zero-Point Security)
-[~] RastaLabs (HTB) ............... preparación en curso
-[~] Notas de estudio AD ........... publicándose en GitHub
-[~] Writeups HTB .................. publicándose en Youtube
+[~] Notas de preparación para el CRTO ...... publicándose en Github  (Zero-Point Security)
+[~] RastaLabs (HTB) ........................ preparación en curso
+[~] Notas de estudio AD .................... publicándose en GitHub
+[~] Writeups HTB ........................... publicándose en Youtube
 ```
 
 <div align="center">
