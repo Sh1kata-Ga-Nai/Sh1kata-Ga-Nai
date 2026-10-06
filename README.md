@@ -79,8 +79,8 @@
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/NOMBRE_REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce&icon_color=ff1a2b&border_color=5a0a12" alt="Repositorio de notas de estudio">
+<a href="https://github.com/Sh1kata-Ga-Nai/Sh1kata-Ga-Nai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh1kata-Ga-Nai&repo=Sh1kata-Ga-Nai&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce&icon_color=ff1a2b&border_color=5a0a12" alt="Repositorio de notas de estudio">
 </a>
 
 </div>
