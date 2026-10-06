@@ -104,8 +104,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-B3101E?style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://app.hackthebox.com/users/TU_ID"><img src="https://img.shields.io/badge/HackTheBox-9AA0A6?style=for-the-badge&logo=hackthebox&logoColor=0b0b0c" alt="HackTheBox"></a>
+<a href="https://www.linkedin.com/in/uchido"><img src="https://img.shields.io/badge/LinkedIn-B3101E?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://profile.hackthebox.com/profile/019e6210-63db-72b8-8ac8-9a5ff821890b?utm_medium=copy_url"><img src="https://img.shields.io/badge/HackTheBox-9AA0A6?style=for-the-badge&logo=hackthebox&logoColor=0b0b0c" alt="HackTheBox"></a>
 <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Correo-B3101E?style=for-the-badge" alt="Correo"></a>
 
 </div>
