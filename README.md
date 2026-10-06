@@ -92,12 +92,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce&icon_color=ff1a2b&ring_color=ff1a2b" alt="Estadísticas de GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce" alt="Lenguajes más usados">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sh1kata-Ga-Nai&show_icons=true&hide_border=true&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce&icon_color=ff1a2b&ring_color=ff1a2b" alt="Estadísticas de GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1kata-Ga-Nai&layout=compact&hide_border=true&bg_color=0b0b0c&title_color=ff1a2b&text_color=c4c8ce" alt="Lenguajes más usados">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&background=0b0b0c&ring=ff1a2b&fire=ff1a2b&currStreakLabel=c4c8ce&sideLabels=c4c8ce&currStreakNum=ffffff&sideNums=ffffff&dates=7b8088&stroke=5a0a12&border=5a0a12" alt="Racha de contribuciones">
+<img src="https://streak-stats.demolab.com?user=Sh1kata-Ga-Nai&background=0b0b0c&ring=ff1a2b&fire=ff1a2b&currStreakLabel=c4c8ce&sideLabels=c4c8ce&currStreakNum=ffffff&sideNums=ffffff&dates=7b8088&stroke=5a0a12&border=5a0a12" alt="Racha de contribuciones">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0b0b0c&color=ff1a2b&line=d10f1f&point=ffffff&area=true&area_color=ff1a2b&hide_border=true&title_color=ff1a2b" alt="Gráfico de actividad" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh1kata-Ga-Nai&bg_color=0b0b0c&color=ff1a2b&line=d10f1f&point=ffffff&area=true&area_color=ff1a2b&hide_border=true&title_color=ff1a2b" alt="Gráfico de actividad" width="100%">
 
 </div>
 
