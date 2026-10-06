@@ -23,13 +23,13 @@
 <div align="center">
 
 **Active Directory**<br>
-<img src="https://img.shields.io/badge/-BloodHound-B3101E?style=for-the-badge" alt="SEXOOO">
+<img src="https://img.shields.io/badge/-BloodHound-B3101E?style=for-the-badge" alt="BloodHound">
 <img src="https://img.shields.io/badge/-Impacket-B3101E?style=for-the-badge" alt="Impacket">
 <img src="https://img.shields.io/badge/-NetExec-B3101E?style=for-the-badge" alt="NetExec">
 <img src="https://img.shields.io/badge/-Rubeus-B3101E?style=for-the-badge" alt="Rubeus">
 <img src="https://img.shields.io/badge/-Certipy-B3101E?style=for-the-badge" alt="Certipy">
 <img src="https://img.shields.io/badge/-PowerView-B3101E?style=for-the-badge" alt="PowerView">
-<img src="https://img.shields.io/badge/-Responder-B3101E?style=for-the-badge" alt="Responder">
+<img src="https://img.shields.io/badge/-Cobalt Strike-B3101E?style=for-the-badge" alt="Cobalt Strike">
 
 <br>
 
